@@ -1,0 +1,16 @@
+{
+  "filterLists": [
+    "user-filters",
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-quick-fixes",
+    "ublock-unbreak",
+    "easylist",
+    "easyprivacy",
+    "urlhaus-1",
+    "plowe-0",
+    "adguard-spyware-url",
+    "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt"
+  ]
+}
